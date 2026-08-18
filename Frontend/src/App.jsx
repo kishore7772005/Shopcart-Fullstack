@@ -11,7 +11,7 @@ import Order from "./Pages/Order";
 import Login from "./Pages/Login";
 import Register from "./Pages/Register";
 
-import ProtectedRoute from "./ProtectedRoute";
+import ProtectedRoute from "./protectedRoute";
 import CartProvider from "./ContextProvider";
 import AuthProvider, { AuthContext } from "./AuthContext";
 
